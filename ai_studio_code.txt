@@ -1,0 +1,5 @@
+{
+  "name": "US Consumer Program Guide",
+  "description": "An educational guide to understanding online program eligibility verification for digital participation offers in the United States.",
+  "requestFramePermissions": []
+}
